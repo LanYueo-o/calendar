@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.6.0",
     "iview": "^3.5.0",
     "nuxt": "^2.0.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.2.0",
     "ws": "^7.1.2"
   },
